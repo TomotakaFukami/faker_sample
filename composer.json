@@ -1,0 +1,12 @@
+{
+    "name": "tomotakafukami/faker",
+    "authors": [
+        {
+            "name": "fukami",
+            "email": "fukami@3films.com"
+        }
+    ],
+    "require": {
+        "fzaninotto/faker": "^1.8"
+    }
+}
